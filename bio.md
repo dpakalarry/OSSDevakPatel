@@ -1,5 +1,5 @@
-#Name: Devak Patel
-#email: pateld10@rpil.edu
-#githubid: dpakalarry
-#slackhandle: devakusa@gmail.com
-#photo:
+## Name: Devak Patel 
+### email: pateld10@rpi.edu 
+### github account: dpakalarry
+### slack handle: dpakalarry
+Photo of Devak ![Devak](images/Devak.png)
