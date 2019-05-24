@@ -2,4 +2,6 @@
 ### email: pateld10@rpi.edu 
 ### github account: dpakalarry
 ### mattermost handle: devakpatel
-Photo of Devak ![Devak](images/Devak.png)
+Photo of Devak ![Devak](images/Devak.png) \
+\
+[lab1](lab1.md)
