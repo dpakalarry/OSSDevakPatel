@@ -21,4 +21,4 @@
 ## Blockly
 ### ![Solution](/images/blockly.jpg)
 ## Reflection
-###
+### The main way I am looking for open source projects are through github's explore page. Through there, I can find repositories that github recomends to me that are open source. For example, some of the interesting open source repositories included software to run on pinball machines, tensorflow, machine learning software for .net frameworks, and an MMORPG server. I have to explore these projects more in depth to determine which projects would benefit for my level of experience. However, currently the most interesting seems to be the software that runs on pinball machines. 
