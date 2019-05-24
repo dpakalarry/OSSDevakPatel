@@ -8,7 +8,7 @@
 ## Regex Problems
 ### ![Prob1](/images/Regex1.JPG)
 ### ![Prob2](/images/Regex2.JPG)
-### ![Prob3](/images/Regex3.JPG)
+### ![Prob3](/images/Regex3JPG.JPG)
 ### ![Prob4](/images/Regex4.JPG)
 ### ![Prob5](/images/Regex5.JPG)
 ### ![Prob6](/images/Regex6.JPG)
