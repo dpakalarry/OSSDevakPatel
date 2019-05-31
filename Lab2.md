@@ -1,9 +1,9 @@
 ## Lab2Part1: 
-https://github.com/dpakalarry/lab2part1 \
+https://github.com/dpakalarry/lab2part1 
 
 ## Branches: 
-![gitk](images/GITKLab2a.png) \
-![git log](images/GITKLab2b.png) \
+![gitk](images/GITKLab2a.JPG) \
+![git log](images/GITKLab2b.JPG) 
 
 ##Spoon-Knife: 
 https://github.com/dpakalarry/Spoon-Knife \
@@ -12,13 +12,13 @@ https://github.com/dpakalarry/Spoon-Knife \
 ![gitBranch1](images/lab2git1.jpg) \
 ![gitBranch2](images/lab2git2.jpg) \
 ![gitBranch3](images/lab2git3.jpg) \
-![gitBranch4](images/lab2git4.jpg) \
+![gitBranch4](images/lab2git4.jpg) 
 
 ##PullReq: 
 https://github.com/dpakalarry/PullReq \
 
 ##Dif: 
-![Diff](images/gitDiff.png) \
+![Diff](images/gitDiff.jpg) \
 
 ##Tag: 
 ![Tag](images/gitTag.jpg) \
