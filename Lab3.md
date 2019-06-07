@@ -14,5 +14,5 @@ Number of Lines of code: 42385 lines \
 First Commit: Jan 2019 \
 Most Recent Commit: Apr 2019 \
 
-![Gource Screenshot](images\gource.JPG)
-![Gitstats Screenshot](images\gitstats.JPG)
+![Gource Screenshot](images/Gource.JPG)
+![Gitstats Screenshot](images/gitstats.JPG)
