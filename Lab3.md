@@ -1,5 +1,6 @@
+Wiki: https://github.com/dpakalarry/OSSDevakPatel/wiki \
 
-Latex Formulae: https://github.com/dpakalarry/OSSDevakPatel/blob/master/formula.tex \ \
+Latex Formulae: https://github.com/dpakalarry/OSSDevakPatel/blob/master/formula.tex \
 
 Project: https://rcos.io/projects/kool814/clickbaitchromeextension/profile \
 Contributors: 2 contributors \
