@@ -10,6 +10,17 @@ I believe because Gopher was straddling the line of open-source and proprietary,
 # Linux and GPL-2
 According to this <a rel = "source" href = "https://www.zdnet.com/article/linus-torvaldss-love-hate-relationship-with-the-gpl/">source</a> the main purpose of linux using a GPL-2 license is to strengthen the community and prevent fragmentation. One big advantage that the GPL has is that it prevents sublicensing, which prevents any developers from releasing a modified linux under a different license. In addition, it must accredit the original and state any changes, which together discourages forking and the fragmentation of the Linux community. 
 
+# Table Project:
+https://github.com/dpakalarry/OSSLab4Proj
+
+# License Table
+| Website                                         	| License Present? 	| License                                                                  	|
+|-------------------------------------------------	|------------------	|--------------------------------------------------------------------------	|
+| https://github.com/bitname-protocol/bitname-cli 	| Yes              	| LGPL-3.0 https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License 	|
+| https://github.com/aesakamar/treeapp            	| Yes              	| Apache-2.0  https://en.wikipedia.org/wiki/Apache_License                 	|
+| https://github.com/Danlowe95/IBEIS-web          	| Yes              	| Apache-2.0 https://en.wikipedia.org/wiki/Apache_License                  	|
+| https://github.com/marsmith/nowcast             	| No               	| N.A.                                                                     	|
+| https://github.com/Phansa/PokeSnowdown          	| No               	| N.A.                                                                     	|
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
