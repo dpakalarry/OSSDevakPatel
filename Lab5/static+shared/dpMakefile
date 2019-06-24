@@ -1,0 +1,13 @@
+all:
+#creating object file
+	gcc -c -fpic ./source/block.c
+#Create a static library from the code in the source directory:
+	ar rcs libstaticBloc.a block.o
+
+#create a shared library
+	gcc -shared -o libsharedBloc.so block.o
+# Use program.c and the libraries to make 2 programs
+#	ranlib -s ./libstaticBloc.a
+	gcc -o static_block program.c -L. -lstaticBloc
+	gcc -o shared_block program.c libsharedBloc.so -Wl,-rpath .
+
