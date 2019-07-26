@@ -1,18 +1,18 @@
 ### Data Visualization with ggplot
-![image](/images/Ra.JPG)
-![image](/images/Rb.JPG)
-![image](/images/Rc.JPG)
-![image](/images/Rd.JPG)
-![image](/images/Re.JPG)
-![image](/images/Rf.JPG)
-![image](/images/Rg.JPG)
-![image](/images/Rh.JPG)
+![image](/images/Ra.jpg)
+![image](/images/Rb.jpg)
+![image](/images/Rc.jpg)
+![image](/images/Rd.jpg)
+![image](/images/Re.jpg)
+![image](/images/Rf.jpg)
+![image](/images/Rg.jpg)
+![image](/images/Rh.jpg)
 
 ### Multiple and Logistic Regression
-![image](/images/R2a.JPG)
-![image](/images/R2b.JPG)
-![image](/images/R2c.JPG)
-![image](/images/R2d.JPG)
-![image](/images/R2e.JPG)
-![image](/images/R2f.JPG)
-![image](/images/R2g.JPG)
+![image](/images/R2a.jpg)
+![image](/images/R2b.jpg)
+![image](/images/R2c.jpg)
+![image](/images/R2d.jpg)
+
+### Observatory link:
+https://rcos.io/projects/jarbus/multiagent-particle-envs/profile
